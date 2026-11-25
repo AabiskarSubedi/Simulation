@@ -1,4 +1,4 @@
-
+[![Run Simulation](https://img.shields.io/badge/Run-Interactive%20Simulation-brightgreen)](https://arxps-simulation.streamlit.app)
 # Physics Simulations
 
 A collection of Python-based computational and interactive
