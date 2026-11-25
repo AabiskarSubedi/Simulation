@@ -13,6 +13,7 @@ classical mechanics.
 [Python Code](spherical_pendulum_python.py)
 
 ### 2. Interactive ARXPS Depth Simulation
+<img src="ARXPS_preview.png" width="450" alt="ARXPS Simulation Preview">
 An interactive simulation of angle-resolved X-ray
 photoelectron spectroscopy (ARXPS).
 [![Run Simulation](https://img.shields.io/badge/Run-Interactive%20Simulation-brightgreen)](https://arxps-simulation.streamlit.app)
