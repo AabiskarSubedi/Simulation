@@ -17,9 +17,6 @@ classical mechanics.
 
 ### 2. Interactive ARXPS Depth Simulation
 
-
-### 2. Interactive ARXPS Depth Simulation
-
 <p align="center">
   <img src="XPS%20and%20ARXPS%20Depth%20Profiling%20Infographic.png" width="48%" alt="XPS and ARXPS">
   <img src="ARXPS_depth.png" width="48%" alt="ARXPS Depth Mechanism">
