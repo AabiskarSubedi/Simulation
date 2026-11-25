@@ -1,4 +1,4 @@
-[![Run Simulation](https://img.shields.io/badge/Run-Interactive%20Simulation-brightgreen)](https://arxps-simulation.streamlit.app)
+
 # Physics Simulations
 
 A collection of Python-based computational and interactive
@@ -15,7 +15,7 @@ classical mechanics.
 ### 2. Interactive ARXPS Depth Simulation
 An interactive simulation of angle-resolved X-ray
 photoelectron spectroscopy (ARXPS).
-
+[![Run Simulation](https://img.shields.io/badge/Run-Interactive%20Simulation-brightgreen)](https://arxps-simulation.streamlit.app)
 Features:
 - Photoelectron attenuation
 - Inelastic mean free path (IMFP)
