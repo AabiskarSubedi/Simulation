@@ -13,11 +13,19 @@ classical mechanics.
 [Python Code](spherical_pendulum_python.py)
 
 ### 2. Interactive ARXPS Depth Simulation
-<img src="XPS and ARXPS Depth Profiling Infographic.png" width="450" alt="ARXPS Simulation Preview">
-An interactive simulation of angle-resolved X-ray
-photoelectron spectroscopy (ARXPS).
+
+
+
+### 2. Interactive ARXPS Depth Simulation
+
+<img src="xps_and_arxps_depth_profiling_infographic.png" width="450" alt="XPS and ARXPS">
+
+An interactive simulation of angle-resolved X-ray photoelectron spectroscopy (ARXPS).
+
 [![Run Simulation](https://img.shields.io/badge/Run-Interactive%20Simulation-brightgreen)](https://arxps-simulation.streamlit.app)
-Features:
+
+**Features:**
+
 - Photoelectron attenuation
 - Inelastic mean free path (IMFP)
 - Emission angle dependence
@@ -25,6 +33,7 @@ Features:
 - Interactive sliders and visualization
 
 [Python Code](ARXPS_depth_simulation.py)
+
 
 ## Requirements
 
